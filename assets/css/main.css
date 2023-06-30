@@ -238,7 +238,7 @@ section {
 # Header
 --------------------------------------------------------------*/
 .topbar {
-  background: #00796b;
+  background: #c3b09f;
   height: 40px;
   font-size: 14px;
   transition: all 0.5s;
@@ -1995,7 +1995,7 @@ section {
 }
 
 .hero .icon-box:hover {
-  background: #009786;
+  background: #99816c;
 }
 
 .hero .icon-box:hover .title a,
