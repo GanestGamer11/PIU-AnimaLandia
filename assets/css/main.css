@@ -304,7 +304,7 @@ section {
 }
 
 .header .logo img {
-  max-height: 40px;
+  max-height: 50px;
   margin-right: 6px;
 }
 
@@ -950,9 +950,9 @@ section {
   margin-bottom: 50px;
 }
 
-.services .service-item .icon i {
+.services .service-item .icon img {
   color: var(--color-default);
-  font-size: 56px;
+  width: 70px;
   transition: ease-in-out 0.3s;
   z-index: 2;
   position: relative;
