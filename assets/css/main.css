@@ -43,7 +43,7 @@ a {
 }
 
 a:hover {
-  color: #00b6a1;
+  color: #725547;
   text-decoration: none;
 }
 
@@ -428,7 +428,7 @@ section {
     font-size: 15px;
     text-transform: none;
     font-weight: 600;
-    color: #006a5d;
+    color: #725547;
   }
 
   .navbar .dropdown ul a i {
@@ -499,7 +499,7 @@ section {
     inset: 0;
     padding: 50px 0 10px 0;
     margin: 0;
-    background: rgba(0, 131, 116, 0.9);
+    background: #442d21;
     overflow-y: auto;
     transition: 0.3s;
     z-index: 9998;
@@ -598,7 +598,7 @@ section {
     content: "";
     position: fixed;
     inset: 0;
-    background: rgba(0, 106, 93, 0.8);
+    background: #725547;
     z-index: 9996;
   }
 }
