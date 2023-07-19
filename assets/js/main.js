@@ -5,6 +5,20 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+
+function sortear(){
+  let array = [ 
+                'details-poriferos.html', 
+                'details-platelmintos.html', 
+                "details-nematelmintos.html", 
+                "details-moluscos.html", 
+                "details-cnidarios.html", 
+                "details-anelideos.html"
+              ];
+  let numero = Math.floor(Math.random() * array.length);
+  window.location = array[numero];
+}
+
 document.addEventListener('DOMContentLoaded', () => {
   "use strict";
 
