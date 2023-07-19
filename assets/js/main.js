@@ -13,7 +13,8 @@ function sortear(){
                 "details-nematelmintos.html", 
                 "details-moluscos.html", 
                 "details-cnidarios.html", 
-                "details-anelideos.html"
+                "details-anelideos.html",
+                "details-artropodes"
               ];
   let numero = Math.floor(Math.random() * array.length);
   window.location = array[numero];
