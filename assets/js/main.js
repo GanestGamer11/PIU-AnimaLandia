@@ -14,7 +14,9 @@ function sortear(){
                 "details-moluscos.html", 
                 "details-cnidarios.html", 
                 "details-anelideos.html",
-                "details-artropodes"
+                "details-artropodes.html",
+                "details-equinodermos.html",
+                "details-cordados.html"
               ];
   let numero = Math.floor(Math.random() * array.length);
   window.location = array[numero];
